@@ -1,3 +1,3 @@
-# Third-Place-Urban-Air-Pollution-Challenge-Hackathon
+# Second-Place-Urban-Air-Pollution-Challenge-Hackathon
 
 You may have seen recent news articles stating that air quality has improved due to COVID-19. This is true for some locations, but as always the truth is a little more complicated. In parts of many African cities, air quality seems to be getting worse as more people stay at home. For this challenge we’ll be digging deeper into the data, finding ways to track air quality and how it is changing, even in places without ground-based sensors.The objective is to predict PM2.5 particulate matter concentration in the air every day for each city. PM2.5 refers to atmospheric particulate matter that have a diameter of less than 2.5 micrometers and is one of the most harmful air pollutants.
